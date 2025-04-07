@@ -1,4 +1,4 @@
-﻿using RabbitMQ.Client;
+using RabbitMQ.Client;
 using System.Text;
 
 var factory = new ConnectionFactory { HostName = "localhost" };
