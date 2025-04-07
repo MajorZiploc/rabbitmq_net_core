@@ -1,0 +1,6 @@
+Session.vim
+ctags
+cscope.out
+bin/
+obj/
+tags
